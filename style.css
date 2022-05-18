@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-size: 35px;
+    font-family: "Lato", sans-serif;
+}
+form {
+    margin-left: 750px;
+    margin-top: 250px;
+}
+.ff {
+    width: 400px;
+    height: 40px;
+}
+.kk {
+    width: 400px;
+    height: 40px;
+    background-color: red;
+    cursor: pointer;
+    color: white;
+
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+a {
+    color: red;
+}
