@@ -10,6 +10,7 @@ form {
 .ff {
     width: 400px;
     height: 40px;
+    border-radius: 20px;
 }
 .kk {
     width: 400px;
@@ -17,10 +18,20 @@ form {
     background-color: red;
     cursor: pointer;
     color: white;
-
+    border-radius: 5px 10px 15px 20px;
     font-size: 30px;
     padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 a {
     color: red;
+    text-decoration: none;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    margin-top: -30px;
+    margin-bottom: 50px;
 }
